@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subhojit0012
-- 👀 I’m interested in development 
+- 👀 I’m a fullstack developer
 - 🌱 I’m currently learning Fron-tend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
